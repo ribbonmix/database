@@ -3,7 +3,7 @@ INSERT INTO general.country (country_id, calling_code, name, iso2, iso3, weekend
 VALUES (1, 962, 'Jordan', 'JO', 'JOR', 5, '2016-02-21 22:41:17', NULL);
 
 /* City Data */
-INSERT INTO general.city (city_id, country_id, short_name, name, active, time_zone, default_city, create_timestamp, update_timestamp)
+INSERT INTO general.city (city_id, country_id, short_name, name, active, zone_id, default_city, create_timestamp, update_timestamp)
 VALUES (1, 1, 'amman', 'Amman', 1, 'Asia/Amman', 1, '2016-02-21 22:45:27', NULL);
 
 /* Neighborhood Data */
