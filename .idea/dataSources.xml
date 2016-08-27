@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="DataSourceManagerImpl" format="xml" hash="1762739665">
+  <component name="DataSourceManagerImpl" format="xml" hash="2085929920">
     <data-source source="LOCAL" name="Ribbon Mix" uuid="f054c0f5-735f-4d87-8375-b9a3426e0542">
       <driver-ref>mysql</driver-ref>
       <synchronize>true</synchronize>
